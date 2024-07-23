@@ -1,0 +1,417 @@
+[
+    {
+        "question": "Quelle est la capitale de la France ?",
+        "answers": ["Berlin", "Madrid", "Paris", "Lisbonne"],
+        "correct": "Paris"
+    },
+    {
+        "question": "Quel est le plus grand océan du monde ?",
+        "answers": ["Atlantique", "Indien", "Arctique", "Pacifique"],
+        "correct": "Pacifique"
+    },
+    {
+        "question": "Quel est l'élément chimique représenté par le symbole 'O' ?",
+        "answers": ["Or", "Oxygène", "Osmium", "Oganesson"],
+        "correct": "Oxygène"
+    },
+    {
+        "question": "Quelle est la monnaie du Japon ?",
+        "answers": ["Yuan", "Won", "Yen", "Rupee"],
+        "correct": "Yen"
+    },
+    {
+        "question": "Quel est l'animal terrestre le plus rapide ?",
+        "answers": ["Lion", "Guépard", "Éléphant", "Cheval"],
+        "correct": "Guépard"
+    },
+    {
+        "question": "Quelle est la capitale de l'Australie ?",
+        "answers": ["Sydney", "Canberra", "Melbourne", "Brisbane"],
+        "correct": "Canberra"
+    },
+    {
+        "question": "Quel est le plus grand désert du monde ?",
+        "answers": ["Sahara", "Gobi", "Antarctique", "Kalahari"],
+        "correct": "Antarctique"
+    },
+    {
+        "question": "Quelle est la langue officielle du Brésil ?",
+        "answers": ["Espagnol", "Portugais", "Anglais", "Français"],
+        "correct": "Portugais"
+    },
+    {
+        "question": "Quelle est la planète la plus proche du Soleil ?",
+        "answers": ["Vénus", "Mercure", "Terre", "Mars"],
+        "correct": "Mercure"
+    },
+    {
+        "question": "Quel est le pays le plus peuplé du monde ?",
+        "answers": ["États-Unis", "Inde", "Chine", "Indonésie"],
+        "correct": "Chine"
+    },
+    {
+        "question": "Quel est l'élément chimique représenté par le symbole 'Au' ?",
+        "answers": ["Argon", "Argent", "Or", "Uranium"],
+        "correct": "Or"
+    },
+    {
+        "question": "Quel est l'organe principal du système circulatoire humain ?",
+        "answers": ["Poumons", "Reins", "Coeur", "Foie"],
+        "correct": "Coeur"
+    },
+    {
+        "question": "Quel est le plus grand pays du monde en superficie ?",
+        "answers": ["Canada", "Chine", "Russie", "États-Unis"],
+        "correct": "Russie"
+    },
+    {
+        "question": "Quel est le plus long fleuve du monde ?",
+        "answers": ["Nil", "Amazone", "Yangtze", "Mississippi"],
+        "correct": "Nil"
+    },
+    {
+        "question": "Quel est le nom de l'art martial d'origine japonaise utilisant des épées ?",
+        "answers": ["Judo", "Karate", "Kendo", "Aikido"],
+        "correct": "Kendo"
+    },
+    {
+        "question": "Quelle est la capitale de l'Italie ?",
+        "answers": ["Venise", "Milan", "Rome", "Florence"],
+        "correct": "Rome"
+    },
+    {
+        "question": "Quel est le plus grand lac du monde par superficie ?",
+        "answers": ["Lac Baïkal", "Lac Supérieur", "Lac Victoria", "Lac Érié"],
+        "correct": "Lac Supérieur"
+    },
+    {
+        "question": "Quel est le plus grand organe du corps humain ?",
+        "answers": ["Peau", "Foie", "Cerveau", "Poumon"],
+        "correct": "Peau"
+    },
+    {
+        "question": "Quel est le premier homme à avoir marché sur la Lune ?",
+        "answers": ["Buzz Aldrin", "Neil Armstrong", "Michael Collins", "Yuri Gagarin"],
+        "correct": "Neil Armstrong"
+    },
+    {
+        "question": "Quelle est la capitale du Canada ?",
+        "answers": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "correct": "Ottawa"
+    },
+    {
+        "question": "Quel est le plus haut sommet du monde ?",
+        "answers": ["K2", "Everest", "Kangchenjunga", "Lhotse"],
+        "correct": "Everest"
+    },
+    {
+        "question": "Quel est le plus ancien empire connu ?",
+        "answers": ["Empire romain", "Empire égyptien", "Empire grec", "Empire mésopotamien"],
+        "correct": "Empire mésopotamien"
+    },
+    {
+        "question": "Quel est le principal gaz dans l'atmosphère terrestre ?",
+        "answers": ["Oxygène", "Hydrogène", "Argon", "Azote"],
+        "correct": "Azote"
+    },
+    {
+        "question": "Quel est l'auteur de 'Les Misérables' ?",
+        "answers": ["Victor Hugo", "Émile Zola", "Marcel Proust", "Honoré de Balzac"],
+        "correct": "Victor Hugo"
+    },
+    {
+        "question": "Quel est le symbole chimique de l'argent ?",
+        "answers": ["Ag", "Au", "Si", "Pb"],
+        "correct": "Ag"
+    },
+    {
+        "question": "Quel pays est surnommé le 'Pays du Soleil Levant' ?",
+        "answers": ["Corée du Sud", "Chine", "Japon", "Thaïlande"],
+        "correct": "Japon"
+    },
+    {
+        "question": "Quel est le nom de la plus grande île de la Méditerranée ?",
+        "answers": ["Sicile", "Chypre", "Crète", "Majorque"],
+        "correct": "Sicile"
+    },
+    {
+        "question": "Quel est le nombre total de continents sur Terre ?",
+        "answers": ["5", "6", "7", "8"],
+        "correct": "7"
+    },
+    {
+        "question": "Quel est le plus grand volcan actif du monde ?",
+        "answers": ["Kilauea", "Mont Fuji", "Mauna Loa", "Vésuve"],
+        "correct": "Mauna Loa"
+    },
+    {
+        "question": "Quel est le nom de la première femme à avoir remporté un prix Nobel ?",
+        "answers": ["Marie Curie", "Rosalind Franklin", "Ada Lovelace", "Hedy Lamarr"],
+        "correct": "Marie Curie"
+    },
+    {
+        "question": "Quel est l'animal le plus intelligent après l'homme ?",
+        "answers": ["Dauphin", "Chimpanzé", "Elephant", "Pieuvre"],
+        "correct": "Chimpanzé"
+    },
+    {
+        "question": "Quel est le nom du président actuel des États-Unis ?",
+        "answers": ["Donald Trump", "Joe Biden", "Barack Obama", "George Bush"],
+        "correct": "Joe Biden"
+    },
+    {
+        "question": "Quel est le nom du célèbre château situé en France, sur la Loire ?",
+        "answers": ["Château de Versailles", "Château de Chambord", "Château de Chenonceau", "Château de Fontainebleau"],
+        "correct": "Château de Chambord"
+    },
+    {
+        "question": "Quel est le nom du plus grand récif corallien du monde ?",
+        "answers": ["Récif de la Grande Barrière", "Récif de Belize", "Récif de Palau", "Récif de Sumatra"],
+        "correct": "Récif de la Grande Barrière"
+    },
+    {
+        "question": "Quel est le nom du système de gouvernement dirigé par un seul individu ?",
+        "answers": ["Démocratie", "République", "Monarchie absolue", "Oligarchie"],
+        "correct": "Monarchie absolue"
+    },
+    {
+        "question": "Quel est le nom du peintre célèbre pour 'La Nuit étoilée' ?",
+        "answers": ["Claude Monet", "Vincent van Gogh", "Pablo Picasso", "Paul Cézanne"],
+        "correct": "Vincent van Gogh"
+    },
+    {
+        "question": "Quel est le nom du plus grand océan de la Terre ?",
+        "answers": ["Océan Atlantique", "Océan Indien", "Océan Arctique", "Océan Pacifique"],
+        "correct": "Océan Pacifique"
+    },
+    {
+        "question": "Quel est le plus grand animal marin du monde ?",
+        "answers": ["Requin blanc", "Baleine bleue", "Orque", "Dauphin"],
+        "correct": "Baleine bleue"
+    },
+    {
+        "question": "Quel est le nom du dieu grec de la guerre ?",
+        "answers": ["Zeus", "Apollon", "Arès", "Hermès"],
+        "correct": "Arès"
+    },
+    {
+        "question": "Quel est le pays d'origine de la pizza ?",
+        "answers": ["France", "Italie", "Grèce", "Espagne"],
+        "correct": "Italie"
+    },
+    {
+        "question": "Quel est le nom de l'élément chimique dont le symbole est 'Na' ?",
+        "answers": ["Néon", "Natrium", "Nickel", "Nitrogène"],
+        "correct": "Natrium"
+    },
+    {
+        "question": "Quel est le nom du personnage principal de la série 'Harry Potter' ?",
+        "answers": ["Hermione Granger", "Ron Weasley", "Albus Dumbledore", "Harry Potter"],
+        "correct": "Harry Potter"
+    },
+    {
+        "question": "Quel est le plus grand lac d'Afrique ?",
+        "answers": ["Lac Victoria", "Lac Tanganyika", "Lac Malawi", "Lac Érié"],
+        "correct": "Lac Victoria"
+    },
+    {
+        "question": "Quel est le nom du plus grand amphithéâtre de la Rome antique ?",
+        "answers": ["Colisée", "Forum romain", "Pantheon", "Cirque Maxime"],
+        "correct": "Colisée"
+    },
+    {
+        "question": "Quelle est la capitale de la Norvège ?",
+        "answers": ["Oslo", "Stockholm", "Copenhague", "Helsinki"],
+        "correct": "Oslo"
+    },
+    {
+        "question": "Quel est le nom de la fête célébrée le 14 juillet en France ?",
+        "answers": ["Fête de la Bastille", "Fête du Travail", "Fête de la Victoire", "Fête de la Musique"],
+        "correct": "Fête de la Bastille"
+    },
+    {
+        "question": "Quel est le nom du premier satellite artificiel lancé dans l'espace ?",
+        "answers": ["Apollo 11", "Hubble", "Spoutnik 1", "Voyager 1"],
+        "correct": "Spoutnik 1"
+    },
+    {
+        "question": "Quel est le nom du célèbre film réalisé par Steven Spielberg en 1993 sur les dinosaures ?",
+        "answers": ["Jurassic Park", "Les Dents de la mer", "E.T.", "Indiana Jones"],
+        "correct": "Jurassic Park"
+    },
+    {
+        "question": "Quel est le nom de la grande muraille construite en Chine ?",
+        "answers": ["Muraille de Chine", "Muraille de Mongolie", "Muraille du Yangtsé", "Muraille de Pékin"],
+        "correct": "Muraille de Chine"
+    },
+    {
+        "question": "Quel est le nom du célèbre festival de musique qui se tient à Glastonbury ?",
+        "answers": ["Glastonbury Festival", "Woodstock", "Coachella", "Lollapalooza"],
+        "correct": "Glastonbury Festival"
+    },
+    {
+        "question": "Quel est le nom du plus grand canyon du monde ?",
+        "answers": ["Grand Canyon", "Canyon de Colca", "Canyon du Yarlung Tsangpo", "Canyon de Fish River"],
+        "correct": "Grand Canyon"
+    },
+    {
+        "question": "Quel est le nom du plus célèbre détective de fiction créé par Arthur Conan Doyle ?",
+        "answers": ["Hercule Poirot", "Sherlock Holmes", "Miss Marple", "Philip Marlowe"],
+        "correct": "Sherlock Holmes"
+    },
+    {
+        "question": "Quel est le nom du plus grand animal terrestre actuel ?",
+        "answers": ["Rhinocéros", "Éléphant", "Giraffe", "Bison"],
+        "correct": "Éléphant"
+    },
+    {
+        "question": "Quel est le nom du plus ancien livre imprimé connu ?",
+        "answers": ["La Bible de Gutenberg", "Les Contes de Grimm", "L'Odyssée", "Le Cantique des cantiques"],
+        "correct": "La Bible de Gutenberg"
+    },
+    {
+        "question": "Quel est le nom de la première station spatiale internationale ?",
+        "answers": ["Mir", "ISS", "Hubble", "Apollo"],
+        "correct": "Mir"
+    },
+    {
+        "question": "Quel est le nom du plus grand océan de la Terre ?",
+        "answers": ["Océan Atlantique", "Océan Indien", "Océan Arctique", "Océan Pacifique"],
+        "correct": "Océan Pacifique"
+    },
+    {
+        "question": "Quel est le nom de l'écrivain britannique connu pour '1984' et 'La Ferme des animaux' ?",
+        "answers": ["George Orwell", "Aldous Huxley", "H.G. Wells", "J.K. Rowling"],
+        "correct": "George Orwell"
+    },
+    {
+        "question": "Quel est le nom du célèbre roman de Jane Austen publié en 1813 ?",
+        "answers": ["Orgueil et Préjugés", "Emma", "Raisons et Sentiments", "Persuasion"],
+        "correct": "Orgueil et Préjugés"
+    },
+    {
+        "question": "Quel est le nom du célèbre peintre néerlandais connu pour 'La Lune de miel' ?",
+        "answers": ["Vincent van Gogh", "Rembrandt", "Claude Monet", "Johannes Vermeer"],
+        "correct": "Johannes Vermeer"
+    },
+    {
+        "question": "Quel est le nom du célèbre poète grec connu pour ses épopées 'L'Iliade' et 'L'Odyssée' ?",
+        "answers": ["Hésiode", "Sophocle", "Homer", "Euripide"],
+        "correct": "Homer"
+    },
+    {
+        "question": "Quel est le nom du personnage principal du roman 'Moby Dick' ?",
+        "answers": ["Ahab", "Starbuck", "Queequeg", "Ishmael"],
+        "correct": "Ishmael"
+    },
+    {
+        "question": "Quel est le nom du célèbre peintre espagnol connu pour ses œuvres surréalistes ?",
+        "answers": ["Pablo Picasso", "Salvador Dalí", "Joan Miró", "Francisco Goya"],
+        "correct": "Salvador Dalí"
+    },
+    {
+        "question": "Quel est le nom du célèbre roman de J.R.R. Tolkien publié en 1937 ?",
+        "answers": ["Le Seigneur des Anneaux", "Le Hobbit", "Le Silmarillion", "Les Enfants de Hurin"],
+        "correct": "Le Hobbit"
+    },
+    {
+        "question": "Quel est le nom du plus grand fleuve d'Asie ?",
+        "answers": ["Yangtze", "Gange", "Indus", "Mékong"],
+        "correct": "Yangtze"
+    },
+    {
+        "question": "Quel est le nom du célèbre château écossais connu pour ses légendes de fantômes ?",
+        "answers": ["Château d'Édimbourg", "Château de Stirling", "Château de Glamis", "Château de Balmoral"],
+        "correct": "Château de Glamis"
+    },
+    {
+        "question": "Quel est le nom du célèbre écrivain américain connu pour 'Les Raisins de la colère' ?",
+        "answers": ["John Steinbeck", "Ernest Hemingway", "F. Scott Fitzgerald", "William Faulkner"],
+        "correct": "John Steinbeck"
+    },
+    {
+        "question": "Quel est le nom du plus grand parc national des États-Unis ?",
+        "answers": ["Yosemite", "Yellowstone", "Grand Canyon", "Zion"],
+        "correct": "Yellowstone"
+    },
+    {
+        "question": "Quel est le nom du plus célèbre opéra de Wolfgang Amadeus Mozart ?",
+        "answers": ["Don Giovanni", "La Flûte enchantée", "Les Noces de Figaro", "Cosi fan tutte"],
+        "correct": "La Flûte enchantée"
+    },
+    {
+        "question": "Quel est le nom de l'île où se trouve la célèbre statue de la Liberté ?",
+        "answers": ["Ellis Island", "Liberty Island", "Roosevelt Island", "Governors Island"],
+        "correct": "Liberty Island"
+    },
+    {
+        "question": "Quel est le nom du plus grand champ de bataille de la Première Guerre mondiale ?",
+        "answers": ["Verdun", "Somme", "Ypres", "Marne"],
+        "correct": "Verdun"
+    },
+    {
+        "question": "Quel est le nom du célèbre écrivain russe connu pour 'Guerre et Paix' ?",
+        "answers": ["Fiodor Dostoïevski", "Léon Tolstoï", "Anton Tchekhov", "Alexandre Pouchkine"],
+        "correct": "Léon Tolstoï"
+    },
+    {
+        "question": "Quel est le nom du célèbre peintre qui a créé 'La Joconde' ?",
+        "answers": ["Leonard de Vinci", "Raphaël", "Michel-Ange", "Titien"],
+        "correct": "Leonard de Vinci"
+    },
+    {
+        "question": "Quel est le nom du célèbre roman de Gabriel García Márquez publié en 1967 ?",
+        "answers": ["Cent ans de solitude", "L'amour aux temps du choléra", "Le Général dans son labyrinthe", "Chronique d'une mort annoncée"],
+        "correct": "Cent ans de solitude"
+    },
+    {
+        "question": "Quel est le nom du célèbre festival de cinéma qui se déroule chaque année à Cannes ?",
+        "answers": ["Festival de Cannes", "Festival de Venise", "Festival de Berlin", "Festival de Toronto"],
+        "correct": "Festival de Cannes"
+    },
+    {
+        "question": "Quel est le nom du célèbre tableau peint par Leonardo da Vinci représentant la Cène ?",
+        "answers": ["La Cène", "La Vierge aux rochers", "L'Annonciation", "Le Baptême du Christ"],
+        "correct": "La Cène"
+    },
+    {
+        "question": "Quel est le nom du célèbre poète français connu pour ses recueils de poèmes 'Les Fleurs du mal' ?",
+        "answers": ["Charles Baudelaire", "Arthur Rimbaud", "Paul Verlaine", "Stéphane Mallarmé"],
+        "correct": "Charles Baudelaire"
+    },
+    {
+        "question": "Quel est le nom du plus grand parc national de l'Afrique ?",
+        "answers": ["Parc national du Serengeti", "Parc national de Kruger", "Parc national du Virunga", "Parc national de la Masai Mara"],
+        "correct": "Parc national du Serengeti"
+    },
+    {
+        "question": "Quel est le nom du célèbre auteur britannique connu pour 'Les Chroniques de Narnia' ?",
+        "answers": ["C.S. Lewis", "J.R.R. Tolkien", "J.K. Rowling", "Philip Pullman"],
+        "correct": "C.S. Lewis"
+    },
+    {
+        "question": "Quel est le nom du plus célèbre festival de musique en Angleterre, organisé chaque année à Glastonbury ?",
+        "answers": ["Glastonbury Festival", "Reading Festival", "Wimbledon", "Download Festival"],
+        "correct": "Glastonbury Festival"
+    },
+    {
+        "question": "Quel est le nom du célèbre château en France, connu pour son architecture médiévale et ses jardins ?",
+        "answers": ["Château de Chenonceau", "Château de Chambord", "Château de Versailles", "Château de Fontainebleau"],
+        "correct": "Château de Chenonceau"
+    },
+    {
+        "question": "Quel est le nom de la plus grande île des Antilles ?",
+        "answers": ["Cuba", "Hispaniola", "Jamaïque", "Porto Rico"],
+        "correct": "Cuba"
+    },
+    {
+        "question": "Quel est le nom du célèbre festival de cinéma qui se déroule chaque année à Venise ?",
+        "answers": ["Festival de Cannes", "Festival de Venise", "Festival de Berlin", "Festival de Toronto"],
+        "correct": "Festival de Venise"
+    },
+    {
+        "question": "Quel est le nom de l'auteur britannique connu pour 'Alice au pays des merveilles' ?",
+        "answers": ["Lewis Carroll", "J.M. Barrie", "C.S. Lewis", "J.K. Rowling"],
+        "correct": "Lewis Carroll"
+    }
+]

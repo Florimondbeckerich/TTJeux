@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini Kahoot</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="participant-container">
+        <h2>Entrez votre nom</h2>
+        <input type="text" id="participant-name" placeholder="Votre nom">
+        <h3>Choisissez le nombre de questions (1 à 50)</h3>
+        <input type="number" id="number-of-questions" min="1" max="50" value="10">
+        <button id="start-button">Commencer le quiz</button>
+    </div>
+    <div id="quiz-container" style="display:none;">
+        <div id="question"></div>
+        <div id="answers"></div>
+        <div id="feedback" style="margin: 10px 0; font-weight: bold;"></div>
+        <button id="next-button" style="display:none;">Suivant</button>
+    </div>
+    <div id="result-container" style="display:none;">
+        <h2>Quiz terminé !</h2>
+        <p id="score"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
